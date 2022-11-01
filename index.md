@@ -13,3 +13,9 @@ fun main() {
   println("Hello github!")
 }
 ```
+
+## Task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
